@@ -26,7 +26,9 @@
 ### 🌱 Currently Learning
 - 🔭 Vercel + Next.js 14 App Router
 - 💻 Prisma & Database Optimization
-- 🧠 AI/ML + TypeScript Integration
+- 🧠 AI/ML + TypeScript Integrations (Cursor for Fullstack Apps)
+- 📱 React Native Mobile First Webapps
+- 🤖 n8n Workflow Automation (Works with API's)
 
 ---
 
