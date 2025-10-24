@@ -9,7 +9,17 @@
 
 ### 🧰 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,prisma,mongodb,firebase,postgres,git,github,vscode" />
+  <!-- Core -->
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,prisma,mongodb,postgres,firebase,supabase,vercel" /><br>
+
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=docker,azure,githubactions,gitlab,linux,bash" /><br>
+
+  <!-- AI & Automation -->
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,openai,n8n" /><br>
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,notion" />
 </p>
 
 <p align="center">
