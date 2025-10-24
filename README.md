@@ -77,10 +77,19 @@
 
 ---
 
-### 📫 Contact Me
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/canbekiroglu777" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://canbekiroglu.vercel.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
+  <a href="mailto:canbek0104@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white)](https://yourportfolio.com)
 
 ---
 
