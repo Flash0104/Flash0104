@@ -70,11 +70,11 @@
 
 ### 🌱 Currently Learning
 - 🔭 Vercel + Next.js 14 App Router
-- 💻 Prisma & Database Optimization
+- 💻 Prisma & Database Optimization (Supabase & PostgreSQL)
 - 🧠 AI/ML + TypeScript Integrations (Cursor for Fullstack Apps)
 - 📱 React Native Mobile First Webapps
 - 🤖 n8n Workflow Automation (Works with API's)
-
+- OpenAI API's such as (Whisper TTS, GPT-4o, Realtime API)
 ---
 
 ### 🌐 Connect with me
@@ -95,4 +95,6 @@
 
 ### 💡 Fun Fact
 ```md
-⚡ I built my projects from scratch and deployed them — check out Lieferspatz 🍔!
+⚡ I built my projects from scratch and deployed them — check out Lieferspatz 🍔!  
+🧠 My most recent project, *Agentic Workshop Trainer*, explores multi-agent orchestration with LangChain and real-time AI interaction.
+😄 I love building things from zero — from Lieferspatz 🍔 to my latest project, *Agentic Workshop Trainer*, where AI agents actually talk to each other (and sometimes argue 😄).
